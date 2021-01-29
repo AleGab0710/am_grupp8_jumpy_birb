@@ -9,6 +9,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 
  /*Alex lägger till en kommentar 10:54*/
+ /*Alex lägger till en kommentar 11:03*/
 
 
 public class App {
